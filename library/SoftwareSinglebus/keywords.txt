@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For Wire
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+SoftwareSinglebus	KEYWORD2
+begin	KEYWORD2
+beginTransmission	KEYWORD2
+endTransmission	KEYWORD2
+requestFrom	KEYWORD2
+send	KEYWORD2
+receive	KEYWORD2
+onReceive	KEYWORD2
+onRequest	KEYWORD2
+
+WRITE	KEYWORD2
+VOIDLE	KEYWORD2
+READ	KEYWORD2
+WRITE	KEYWORD2
+SAVE	KEYWORD2
+INITIALIZE	KEYWORD2
+INTERRUPT	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+Wire	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
